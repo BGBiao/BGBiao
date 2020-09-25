@@ -1,8 +1,7 @@
-### Hi there 👋
 
 <img src="https://github.com/BGBiao/BGBiao/blob/master/go.gif" width="100">
 
-### Hi there 👋
+### Hi Boys and Girls 👋
 
 #### About me
 
