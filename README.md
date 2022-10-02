@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Golang and studing OpenSource project codes.
 - 💬 Ask me about SRE、Ops、Kubernetes in production、DevOps etc.
 - 📫 My website: http://bgbiao.top/
-- 😄 Public WeChat: BGBiao
+- 😄 Public WeChat: `CloudNativeOps`
 - ⚡ 知乎乎: [BGBiao](https://www.zhihu.com/people/bgbiao)
 
 
